@@ -1,6 +1,6 @@
 ### Welcome to ohmj
 
-The ohmj library is a Java implementation of the CCC protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of CCC Core. It comes with full documentation and some example apps showing how to use it.
+The ohmj library is a Java implementation of the OHM protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of OHM Core. It comes with full documentation and some example apps showing how to use it.
 
 ### Technologies
 
