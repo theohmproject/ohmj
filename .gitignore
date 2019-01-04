@@ -17,7 +17,7 @@ checkpoints-testnet.txt
 checkpoints.txt
 
 #Apple Hidden Files 
-.DS_Store
-.AppleDouble
-.LSOverride
+*.DS_Store
+*.AppleDouble
+*.LSOverride
 
